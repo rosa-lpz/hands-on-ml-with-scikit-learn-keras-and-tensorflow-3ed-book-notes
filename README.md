@@ -4,4 +4,7 @@ Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow from Aurélie
 
 # Content
 
+## Part I. The Fundamentals of Machine Learning
 1. Machine Learning Landscape
+2. End-toEnd Machine Learning Project
+3. Classification
