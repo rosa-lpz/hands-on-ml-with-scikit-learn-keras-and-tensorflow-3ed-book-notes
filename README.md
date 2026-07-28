@@ -1,7 +1,10 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-
 * [Website](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632)
+* [GitHub](https://ageron.github.io/)
 
+
+
+  
 # Content
 
 ## Part I. The Fundamentals of Machine Learning
@@ -18,3 +21,10 @@
 ## Part II. Neural Networks and Deep Learning
 10. Introduction to Artificial Neural Networks with Keras
 11. Training Deep Neural Networks
+
+# References
+* [Website](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632)
+* [GitHub](https://ageron.github.io/)
+* 
+## Other books
+* [Hands-on Machine Learning with Scikit-Learn and Pytorch](https://ageron.github.io/)
